@@ -1,0 +1,63 @@
+html,body{
+    max-width: 100%;
+    max-height: fit-content;
+    
+    background:#ADEFD1;
+}
+.container-fluid{
+    z-index: -1;
+    position: absolute;
+}
+#img1{
+    margin-left: -11px;
+    padding: 0;
+    max-width: 100%;
+    max-height: fit-content;
+    overflow-x: hidden;
+    height: 1059px; 
+    width: 2220px;
+    z-index: -1;
+    position: absolute;
+}
+#first{
+    height: 520px;
+    width: 1100px;
+    margin-left: 150px;
+    margin-top: 100px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: rgb(70, 69, 71);
+    z-index: 1;
+    position: absolute;
+    
+}
+.container-sm {
+    height: 400px;
+    width: 400px;
+    margin: 100px;
+    z-index: 0;
+    position: absolute;
+}
+.a2{
+    background-color: rgb(255, 255, 255);
+    margin-left: 600px;
+    height: 400px;
+}
+#signin{
+    margin-left: 60px;
+    width: 200px;
+}
+a{
+    color:#00203FFF;
+    text-decoration: none;
+}
+button{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+}
+.box{
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(213, 210, 210);
+    border-radius: 20px;
+    box-shadow: #00203FFF;
+}
